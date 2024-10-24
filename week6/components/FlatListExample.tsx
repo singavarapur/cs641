@@ -26,6 +26,8 @@ const DATA = [
   },
 ];
 
+//new code
+
 type ItemProps = {title: string, description: string};
 
 const Item = (props: ItemProps) => (
